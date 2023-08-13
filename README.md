@@ -1,6 +1,8 @@
 # SearchForComponents
 An Editor Script that search for component usage on your project.
-Provided by a unity user named hpjohn in thread: https://forum.unity.com/threads/editor-want-to-check-all-prefabs-in-a-project-for-an-attached-monobehaviour.253149/
+
+Provided by a unity user named hpjohn in thread:
+https://forum.unity.com/threads/editor-want-to-check-all-prefabs-in-a-project-for-an-attached-monobehaviour.253149/
 
 ---
 
